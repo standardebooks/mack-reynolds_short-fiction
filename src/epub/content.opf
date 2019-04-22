@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/SE_IDENTIFIER</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/mack-reynolds/short-fiction</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -27,48 +27,135 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">TITLE</dc:title>
-		<meta property="file-as" refines="#title">TITLE_SORT</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOC_URL_1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOC_URL_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:title id="title">Short Fiction</dc:title>
+		<meta property="file-as" refines="#title">Short Fiction</meta>
+		<dc:subject id="subject-1">Science fiction</dc:subject>
+		<dc:subject id="subject-2">Short stories</dc:subject>
+		<dc:subject id="subject-3">Astronauts -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Political fiction</dc:subject>
+		<dc:subject id="subject-5">Soviet Union -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Soldiers -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Balkan Peninsula -- Fiction</dc:subject>
+		<dc:subject id="subject-8">Sahara -- Fiction</dc:subject>
+		<dc:subject id="subject-9">Sabotage -- Fiction</dc:subject>
+		<dc:subject id="subject-10">Desert reclamation -- Mali -- Fiction</dc:subject>
+		<dc:subject id="subject-11">Time travel -- Fiction</dc:subject>
+		<dc:subject id="subject-12">Assassins -- Fiction</dc:subject>
+		<dc:subject id="subject-13">Science fiction, American</dc:subject>
+		<dc:subject id="subject-14">Space colonies -- Fiction</dc:subject>
+		<dc:subject id="subject-15">Mercenary troops -- Fiction</dc:subject>
+		<dc:subject id="subject-16">Corporations -- Corrupt practices -- Fiction</dc:subject>
+		<dc:subject id="subject-17">Time travel -- Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/29206</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/29206</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/52995</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/30338</meta>
+		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/23929</meta>
+		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/31008</meta>
+		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/30902</meta>
+		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/51799</meta>
+		<meta property="meta-auth" refines="#subject-9">https://www.gutenberg.org/ebooks/51799</meta>
+		<meta property="meta-auth" refines="#subject-10">https://www.gutenberg.org/ebooks/51799</meta>
+		<meta property="meta-auth" refines="#subject-11">https://www.gutenberg.org/ebooks/24247</meta>
+		<meta property="meta-auth" refines="#subject-12">https://www.gutenberg.org/ebooks/24247</meta>
+		<meta property="meta-auth" refines="#subject-13">https://www.gutenberg.org/ebooks/24749</meta>
+		<meta property="meta-auth" refines="#subject-14">https://www.gutenberg.org/ebooks/24749</meta>
+		<meta property="meta-auth" refines="#subject-15">https://www.gutenberg.org/ebooks/24370</meta>
+		<meta property="meta-auth" refines="#subject-16">https://www.gutenberg.org/ebooks/24370</meta>
+		<meta property="meta-auth" refines="#subject-17">https://www.gutenberg.org/ebooks/23942</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A collection of science fiction short fiction by Mack Reynolds ordered by date of publication.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Dallas McCord “Mack” Reynolds was an American science fiction writer who authored almost two hundred short stories and novellas, was a staple in all the major science fiction and fantasy magazines and published dozens of science fiction novels. He began his writing career in the late 40s and his fiction focused on exploring and challenging both the socioeconomic themes of the day and the implications of the Cold War that raged throughout his career. A thoughtful writer of speculative fiction, many of Mack Reynolds‘ predictions have come to pass, including the credit-card economy, remote warfare and a worldwide computer network.&lt;/p&gt;
+			&lt;p&gt;This collection gathers 21 of his stories that were published between 1953 and 1963 in &lt;i&gt;Analog&lt;/i&gt;, &lt;i&gt;Astounding Science Fiction&lt;/i&gt;, &lt;i&gt;Amazing Stories&lt;/i&gt; and more. Ordered by date of first publication, they range from spy adventures to the ultimate expression of corporate warfare and from the very short 1000-word story to full blown novellas.&lt;/p&gt;</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/29940</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/40954</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/30035</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/29206</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/23942</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/23929</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/24749</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/30712</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/23669</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/27393</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/26741</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/24247</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/30338</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/30334</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51799</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/30339</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/24370</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/23197</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/23194</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/31008</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/52995</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4aa2556c5cbaf</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID505a4e8aaf930</dc:source>
+		<dc:source>https://archive.org/details/1954-01_IF</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49c82d6189993</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID46917350e5c63</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID469171f14fd3f</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID46916599916da</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4914cf86f4221</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4682eef623947</dc:source>
+		<dc:source>https://archive.org/details/Amazing_Stories_v34n11_1960-11_UnkSc-cape1736/page/n71</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID48c445cc111b3</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID46d4c9827eadb</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4914d22f3bd3e</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4914ddd4f0ab1</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v19n05_1961-06_modified/page/n3</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4914e24d73ccb</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID46e33170e5708</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4671dcb9cec18</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4671d4f5aee30</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49443df3561e2</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID57cb212a1c5ba</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/VCS_IDENTIFIER</meta>
-		<dc:creator id="author">AUTHOR</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">AUTHOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/mack-reynolds_short-fiction</meta>
+		<dc:creator id="author">Mack Reynolds</dc:creator>
+		<meta property="file-as" refines="#author">Reynolds, Mack</meta>
+		<meta property="se:name.person.full-name" refines="#author">Dallas McCord Reynolds</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mack_Reynolds</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n82231916</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">TRANSLATOR</dc:contributor>
-		<meta property="file-as" refines="#translator">TRANSLATOR_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">TRANSLATOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">TRANSLATOR_NACOAF_URL</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Roger de la Fresnaye</dc:contributor>
+		<meta property="file-as" refines="#artist">La Fresnaye, Roger de</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Roger_de_La_Fresnaye
+</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85817282</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Bruce Albrecht</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Albrecht, Bruce</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Stephen Blundell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Blundell,Stephen</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">David King</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">King, David</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Geetu Melwani</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Melwani, Geetu</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Sankar Viswanathan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Viswanathan, Sankar</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Weeks, Greg</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-8">https://www.pgdp.net</meta>
+		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://astart.ca</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -83,14 +170,56 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/adaptation.xhtml" id="adaptation.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/combat.xhtml" id="combat.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dogfight-1973.xhtml" id="dogfight-1973.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/farmer.xhtml" id="farmer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/freedom.xhtml" id="freedom.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/frigid-fracas.xhtml" id="frigid-fracas.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/gun-for-hire.xhtml" id="gun-for-hire.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/happy-ending.xhtml" id="happy-ending.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/im-a-stranger-here-myself.xhtml" id="im-a-stranger-here-myself.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/medal-of-honor.xhtml" id="medal-of-honor.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mercenary.xhtml" id="mercenary.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/off-course.xhtml" id="off-course.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/potential-enemy.xhtml" id="potential-enemy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/revolution.xhtml" id="revolution.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spaceman-on-a-spree.xhtml" id="spaceman-on-a-spree.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/status-quo.xhtml" id="status-quo.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/subversive.xhtml" id="subversive.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/summit.xhtml" id="summit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-common-man.xhtml" id="the-common-man.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/ultima-thule.xhtml" id="ultima-thule.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/unborn-tomorrow.xhtml" id="unborn-tomorrow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="dogfight-1973.xhtml"/>
+		<itemref idref="potential-enemy.xhtml"/>
+		<itemref idref="off-course.xhtml"/>
+		<itemref idref="happy-ending.xhtml"/>
+		<itemref idref="unborn-tomorrow.xhtml"/>
+		<itemref idref="revolution.xhtml"/>
+		<itemref idref="adaptation.xhtml"/>
+		<itemref idref="combat.xhtml"/>
+		<itemref idref="summit.xhtml"/>
+		<itemref idref="medal-of-honor.xhtml"/>
+		<itemref idref="im-a-stranger-here-myself.xhtml"/>
+		<itemref idref="gun-for-hire.xhtml"/>
+		<itemref idref="freedom.xhtml"/>
+		<itemref idref="ultima-thule.xhtml"/>
+		<itemref idref="farmer.xhtml"/>
+		<itemref idref="status-quo.xhtml"/>
+		<itemref idref="mercenary.xhtml"/>
+		<itemref idref="subversive.xhtml"/>
+		<itemref idref="the-common-man.xhtml"/>
+		<itemref idref="frigid-fracas.xhtml"/>
+		<itemref idref="spaceman-on-a-spree.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
