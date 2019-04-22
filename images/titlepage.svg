@@ -7,11 +7,9 @@
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
-
 		.title{
 			font-size: 93.56725311px;
 		}
-
 		.author{
 			font-size: 70.17543793px;
 		}
