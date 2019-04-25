@@ -123,11 +123,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mack_Reynolds</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n82231916</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:creator id="author">Frederic Brown</dc:creator>
-		<meta property="file-as" refines="#author">Brown, Frederick</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Fredric_Brown</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79056291</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:creator id="contributor">Frederic Brown</dc:creator>
+		<meta property="file-as" refines="#contributor">Brown, Frederick</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Fredric_Brown</meta>
+		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n79056291</meta>
+		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
 		<dc:contributor id="artist">Roger de la Fresnaye</dc:contributor>
 		<meta property="file-as" refines="#artist">La Fresnaye, Roger de</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Roger_de_La_Fresnaye</meta>
