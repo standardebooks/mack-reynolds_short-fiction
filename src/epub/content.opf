@@ -95,7 +95,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/52995</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4aa2556c5cbaf</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID505a4e8aaf930</dc:source>
-		<dc:source>https://archive.org/details/1954-01_IF</dc:source>
+		<dc:source>https://archive.org/details/1954-01_IF/page/n115</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49c82d6189993</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID46917350e5c63</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID469171f14fd3f</dc:source>
@@ -114,6 +114,7 @@
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4671d4f5aee30</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49443df3561e2</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID57cb212a1c5ba</dc:source>
+		<meta property="se:production-notes">All stories by Mack Reynolds except Happy Ending which was written by Mack Reynolds and Frederic Brown.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mack-reynolds_short-fiction</meta>
