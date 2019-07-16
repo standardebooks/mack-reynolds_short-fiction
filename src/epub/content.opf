@@ -68,7 +68,6 @@
 		<dc:description id="description">A collection of science fiction short fiction by Mack Reynolds ordered by date of publication.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Dallas McCord “Mack” Reynolds was an American science fiction writer who authored almost two hundred short stories and novellas, was a staple in all the major science fiction and fantasy magazines and published dozens of science fiction novels. He began his writing career in the late 40s and his fiction focused on exploring and challenging both the socioeconomic themes of the day and the implications of the Cold War that raged throughout his career. A thoughtful writer of speculative fiction, many of Mack Reynolds‘ predictions have come to pass, including the credit-card economy, remote warfare and a worldwide computer network.&lt;/p&gt;
 			&lt;p&gt;This collection gathers 21 of his stories that were published between 1953 and 1963 in &lt;i&gt;Analog&lt;/i&gt;, &lt;i&gt;Astounding Science Fiction&lt;/i&gt;, &lt;i&gt;Amazing Stories&lt;/i&gt; and more. Ordered by date of first publication, they range from spy adventures to the ultimate expression of corporate warfare and from the very short 1000-word story to full blown novellas.&lt;/p&gt;</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
