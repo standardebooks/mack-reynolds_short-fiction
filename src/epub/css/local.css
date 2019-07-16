@@ -20,8 +20,13 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
+abbr.acronym{
+	font-variant: all-small-caps;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
 	font-variant: normal;
 }
+
