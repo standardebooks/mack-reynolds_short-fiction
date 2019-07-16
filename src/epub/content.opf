@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
@@ -45,32 +45,46 @@
 		<dc:subject id="subject-14">Space colonies -- Fiction</dc:subject>
 		<dc:subject id="subject-15">Mercenary troops -- Fiction</dc:subject>
 		<dc:subject id="subject-16">Corporations -- Corrupt practices -- Fiction</dc:subject>
-		<dc:subject id="subject-17">Time travel -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/29206</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/29206</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/52995</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/30338</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/23929</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/31008</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/30902</meta>
-		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/51799</meta>
-		<meta property="meta-auth" refines="#subject-9">https://www.gutenberg.org/ebooks/51799</meta>
-		<meta property="meta-auth" refines="#subject-10">https://www.gutenberg.org/ebooks/51799</meta>
-		<meta property="meta-auth" refines="#subject-11">https://www.gutenberg.org/ebooks/24247</meta>
-		<meta property="meta-auth" refines="#subject-12">https://www.gutenberg.org/ebooks/24247</meta>
-		<meta property="meta-auth" refines="#subject-13">https://www.gutenberg.org/ebooks/24749</meta>
-		<meta property="meta-auth" refines="#subject-14">https://www.gutenberg.org/ebooks/24749</meta>
-		<meta property="meta-auth" refines="#subject-15">https://www.gutenberg.org/ebooks/24370</meta>
-		<meta property="meta-auth" refines="#subject-16">https://www.gutenberg.org/ebooks/24370</meta>
-		<meta property="meta-auth" refines="#subject-17">https://www.gutenberg.org/ebooks/23942</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85104355</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008111701</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008111377</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">Unknown</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">Unknown</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2010111766</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">Unknown</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">sh2008112697</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">sh2007100747</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">sh85118637</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">sh2008111729</meta>
+		<meta property="authority" refines="#subject-15">LCSH</meta>
+		<meta property="term" refines="#subject-15">sh2008107695</meta>
+		<meta property="authority" refines="#subject-16">LCSH</meta>
+		<meta property="term" refines="#subject-16">sh2009118906</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of science fiction short stories by Mack Reynolds ordered by date of publication.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta property="authority" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Dallas McCord “Mack” Reynolds was an American science fiction writer who authored almost two hundred short stories and novellas, was a staple in all the major science fiction and fantasy magazines and published dozens of science fiction novels. He began his writing career in the late 1940s. His fiction focused on exploring and challenging both the socioeconomic themes of the day and the implications of the Cold War that raged throughout his career. A thoughtful writer of speculative fiction, many of Mack Reynolds’ predictions have come to pass, including the credit-card economy, remote warfare and a worldwide computer network. His thoughts about the outcomes of both the Soviet and western political and economic systems are still highly relevant.&lt;/p&gt;
 			&lt;p&gt;This collection gathers 21 of his stories that were published between 1953 and 1963 in &lt;i&gt;Analog&lt;/i&gt;, &lt;i&gt;Astounding Science Fiction&lt;/i&gt;, &lt;i&gt;Amazing Stories&lt;/i&gt; and others. Ordered by date of first publication, they range from spy adventures to the ultimate expression of corporate warfare and from a very short 1000-word story to full-blown novellas.&lt;/p&gt;</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
+		<meta property="authority" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/29940</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/40954</dc:source>
@@ -124,7 +138,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mack_Reynolds</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n82231916</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:creator id="contributor">Frederic Brown</dc:creator>
+		<dc:contributor id="contributor">Frederic Brown</dc:contributor>
 		<meta property="file-as" refines="#contributor">Brown, Frederick</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Fredric_Brown</meta>
 		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n79056291</meta>
