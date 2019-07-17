@@ -77,7 +77,7 @@
 		<meta property="term" refines="#subject-15">sh2008107695</meta>
 		<meta property="authority" refines="#subject-16">LCSH</meta>
 		<meta property="term" refines="#subject-16">sh2009118906</meta>
-		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of science fiction short stories by Mack Reynolds ordered by date of publication.</dc:description>
 		<meta property="authority" refines="#description">https://standardebooks.org</meta>
