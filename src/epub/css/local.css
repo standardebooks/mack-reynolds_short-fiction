@@ -40,4 +40,3 @@ footer{
 #adaptation [epub|type~="subchapter"]:first-of-type > p{
 	font-style: italic;
 }
-
