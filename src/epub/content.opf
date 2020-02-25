@@ -108,6 +108,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/23194</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/31008</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/52995</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/59514</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/60761</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4aa2556c5cbaf</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID505a4e8aaf930</dc:source>
 		<dc:source>https://archive.org/details/1954-01_IF/page/n115</dc:source>
@@ -129,6 +131,8 @@
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4671d4f5aee30</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49443df3561e2</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID57cb212a1c5ba</dc:source>
+		<dc:source>https://archive.org/details/1956-06_IF_modified/page/n47/</dc:source>
+		<dc:source>https://archive.org/details/1960-01_IF/page/n3/</dc:source>
 		<meta property="se:production-notes">All stories by Mack Reynolds except Happy Ending which was written by Mack Reynolds and Frederic Brown.</meta>
 		<meta property="se:word-count">256211</meta>
 		<meta property="se:reading-ease.flesch">67.86</meta>
@@ -195,6 +199,7 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/adaptation.xhtml" id="adaptation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/after-some-tomorrow.xhtml" id="after-some-tomorrow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/combat.xhtml" id="combat.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dogfight-1973.xhtml" id="dogfight-1973.xhtml" media-type="application/xhtml+xml"/>
@@ -215,6 +220,7 @@
 		<item href="text/subversive.xhtml" id="subversive.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summit.xhtml" id="summit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-common-man.xhtml" id="the-common-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-good-seed.xhtml" id="the-good-seed.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/ultima-thule.xhtml" id="ultima-thule.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/unborn-tomorrow.xhtml" id="unborn-tomorrow.xhtml" media-type="application/xhtml+xml"/>
@@ -227,11 +233,13 @@
 		<itemref idref="potential-enemy.xhtml"/>
 		<itemref idref="off-course.xhtml"/>
 		<itemref idref="happy-ending.xhtml"/>
+		<itemref idref="after-some-tomorrow.xhtml"/>
 		<itemref idref="unborn-tomorrow.xhtml"/>
+		<itemref idref="the-good-seed.xhtml"/>
+		<itemref idref="summit.xhtml"/>
 		<itemref idref="revolution.xhtml"/>
 		<itemref idref="adaptation.xhtml"/>
 		<itemref idref="combat.xhtml"/>
-		<itemref idref="summit.xhtml"/>
 		<itemref idref="medal-of-honor.xhtml"/>
 		<itemref idref="im-a-stranger-here-myself.xhtml"/>
 		<itemref idref="gun-for-hire.xhtml"/>
