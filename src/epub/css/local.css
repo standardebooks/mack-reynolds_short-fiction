@@ -41,6 +41,6 @@ footer{
 	font-variant: normal;
 }
 
-#adaptation [epub|type~="subchapter"]:first-of-type > p{
+#adaptation section[epub|type~="subchapter"]:first-of-type > p{
 	font-style: italic;
 }
