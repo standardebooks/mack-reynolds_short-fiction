@@ -7,13 +7,13 @@
 
 [epub|type~="z3998:letter"] p{
 	font-variant: small-caps;
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 	margin-bottom: 1em;
 }
 
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
