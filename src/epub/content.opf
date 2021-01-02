@@ -45,6 +45,14 @@
 		<dc:subject id="subject-14">Space colonies -- Fiction</dc:subject>
 		<dc:subject id="subject-15">Mercenary troops -- Fiction</dc:subject>
 		<dc:subject id="subject-16">Corporations -- Corrupt practices -- Fiction</dc:subject>
+		<dc:subject id="subject-17">Human-alien encounters -- Fiction</dc:subject>
+		<dc:subject id="subject-18">Mars (Planet) -- Fiction</dc:subject>
+		<dc:subject id="subject-19">Immortality -- Fiction</dc:subject>
+		<dc:subject id="subject-20">Orphans -- Fiction</dc:subject>
+		<dc:subject id="subject-21">Space flight -- Fiction</dc:subject>
+		<dc:subject id="subject-22">Sick children -- Fiction</dc:subject>
+		<dc:subject id="subject-23">Journalists -- Fiction</dc:subject>
+		<dc:subject id="subject-24">Space travelers -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
@@ -77,6 +85,22 @@
 		<meta property="term" refines="#subject-15">sh2008107695</meta>
 		<meta property="authority" refines="#subject-16">LCSH</meta>
 		<meta property="term" refines="#subject-16">sh2009118906</meta>
+		<meta property="authority" refines="#subject-17">LCSH</meta>
+		<meta property="term" refines="#subject-17">sh2008105650</meta>
+		<meta property="authority" refines="subject-18">LCSH</meta>
+		<meta property="term" refines="subject-18">sh2008115817</meta>
+		<meta property="authority" refines="subject-19">LCSH</meta>
+		<meta property="term" refines="subject-18">sh2009126786</meta>
+		<meta property="authority" refines="#subject-20">LCSH</meta>
+		<meta property="term" refines="#subject-20">sh2008108587</meta>
+		<meta property="authority" refines="#subject-21">LCSH</meta>
+		<meta property="term" refines="#subject-21">sh2008111360</meta>
+		<meta property="authority" refines="#subject-22">LCSH</meta>
+		<meta property="term" refines="#subject-22">sh2008111382</meta>
+		<meta property="authority" refines="#subject-23">LCSH</meta>
+		<meta property="term" refines="#subject-23">sh2008106063</meta>
+		<meta property="authority" refines="#subject-24">LCSH</meta>
+		<meta property="term" refines="#subject-24">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of science fiction short stories by Mack Reynolds ordered by date of publication.</dc:description>
@@ -110,6 +134,9 @@
 		<dc:source>https://www.gutenberg.org/ebooks/52995</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/59514</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/60761</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/63963</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/63989</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/63741</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4aa2556c5cbaf</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID505a4e8aaf930</dc:source>
 		<dc:source>https://archive.org/details/1954-01_IF/page/n115</dc:source>
@@ -133,6 +160,9 @@
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID57cb212a1c5ba</dc:source>
 		<dc:source>https://archive.org/details/1956-06_IF_modified/page/n47/</dc:source>
 		<dc:source>https://archive.org/details/1960-01_IF/page/n3/</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v05n01_1951-07_oak/page/n67/</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v05n03_1951-11/page/n33/</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v06n05_1954-03/page/n59/</dc:source>
 		<meta property="se:production-notes">All stories by Mack Reynolds except Happy Ending which was written by Mack Reynolds and Frederic Brown.</meta>
 		<meta property="se:word-count">266171</meta>
 		<meta property="se:reading-ease.flesch">67.86</meta>
@@ -208,11 +238,13 @@
 		<item href="text/freedom.xhtml" id="freedom.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/frigid-fracas.xhtml" id="frigid-fracas.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/gun-for-hire.xhtml" id="gun-for-hire.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftripper.xhtml" id="halftripper.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/happy-ending.xhtml" id="happy-ending.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/im-a-stranger-here-myself.xhtml" id="im-a-stranger-here-myself.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/medal-of-honor.xhtml" id="medal-of-honor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mercenary.xhtml" id="mercenary.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mercy-flight.xhtml" id="mercy-flight.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/off-course.xhtml" id="off-course.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/potential-enemy.xhtml" id="potential-enemy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/revolution.xhtml" id="revolution.xhtml" media-type="application/xhtml+xml"/>
@@ -221,6 +253,7 @@
 		<item href="text/subversive.xhtml" id="subversive.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/summit.xhtml" id="summit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-common-man.xhtml" id="the-common-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-galactic-ghost.xhtml" id="the-galactic-ghost.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-good-seed.xhtml" id="the-good-seed.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/ultima-thule.xhtml" id="ultima-thule.xhtml" media-type="application/xhtml+xml"/>
@@ -230,9 +263,12 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="mercy-flight.xhtml"/>
+		<itemref idref="halftripper.xhtml"/>
 		<itemref idref="dogfight-1973.xhtml"/>
 		<itemref idref="potential-enemy.xhtml"/>
 		<itemref idref="off-course.xhtml"/>
+		<itemref idref="the-galactic-ghost.xhtml"/>
 		<itemref idref="happy-ending.xhtml"/>
 		<itemref idref="after-some-tomorrow.xhtml"/>
 		<itemref idref="unborn-tomorrow.xhtml"/>
