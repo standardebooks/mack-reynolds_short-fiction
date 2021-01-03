@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="colophon.xhtml">
+		<ignore>
+			<code>m-007</code>
+			<reason>IA links point to page where the stories start.</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>m-007</code>
+			<reason>IA links point to page where the stories start.</reason>
+		</ignore>
+	</file>
 	<file path="frigid-fracas.xhtml">
 		<ignore>
 			<code>t-017</code>
