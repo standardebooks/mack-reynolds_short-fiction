@@ -164,8 +164,8 @@
 		<dc:source>https://archive.org/details/Planet_Stories_v05n03_1951-11/page/n33/</dc:source>
 		<dc:source>https://archive.org/details/Planet_Stories_v06n05_1954-03/page/n59/</dc:source>
 		<meta property="se:production-notes">All stories by Mack Reynolds except Happy Ending which was written by Mack Reynolds and Frederic Brown.</meta>
-		<meta property="se:word-count">266171</meta>
-		<meta property="se:reading-ease.flesch">67.86</meta>
+		<meta property="se:word-count">275395</meta>
+		<meta property="se:reading-ease.flesch">76.32</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mack-reynolds_short-fiction</meta>
 		<dc:creator id="author">Mack Reynolds</dc:creator>
 		<meta property="file-as" refines="#author">Reynolds, Mack</meta>
