@@ -5,11 +5,31 @@
 	font-style: italic;
 }
 
-[epub|type~="z3998:letter"] p{
+#combat [epub|type~="z3998:letter"] p{
 	font-variant: small-caps;
 	text-align: initial;
 	text-indent: 0;
 	margin-bottom: 1em;
+}
+
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:salutation"] + p,
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:sender"],
+[epub|type~="z3998:salutation"],
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
 }
 
 [epub|type~="z3998:verse"] p{
@@ -33,12 +53,6 @@
 
 [epub|type~="z3998:acronym"]{
 	font-variant: all-small-caps;
-}
-
-footer{
-	margin-top: 1em;
-	text-align: right;
-	font-variant: normal;
 }
 
 #adaptation section:first-of-type > p{
