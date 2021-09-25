@@ -192,18 +192,22 @@
 		<!-- Status Quo -->
 		<dc:source>https://www.gutenberg.org/ebooks/30339</dc:source>
 		<dc:source>https://archive.org/details/sim_analog-science-fiction-fact_1961-08_67_6</dc:source>
-		<!-- Mercenary (Analog 4/1962) -->
+		<!-- Mercenary (a "borrowed" scan from IA, requires an account to view) -->
 		<dc:source>https://www.gutenberg.org/ebooks/24370</dc:source>
-		<!-- Subversive (Analog 12/1962)-->
+		<dc:source>https://archive.org/details/sim_analog-science-fiction-fact_1962-04_69_2</dc:source>
+		<!-- Subversive (a "borrowed" scan from IA, requires an account to view) -->
 		<dc:source>https://www.gutenberg.org/ebooks/23197</dc:source>
-		<!-- The Common Man (Analog 01/1963) -->
+		<dc:source>https://archive.org/details/sim_analog-science-fiction-fact_1962-12_70_4</dc:source>
+		<!-- The Common Man (a "borrowed" scan from IA, requires an account to view) -->
 		<dc:source>https://www.gutenberg.org/ebooks/23194</dc:source>
-		<!-- Frigid Fracas (Analog 3-4/1963)-->
+		<dc:source>https://archive.org/details/sim_analog-science-fiction-fact_1963-01_70_5</dc:source>
+		<!-- Frigid Fracas (a "borrowed" scan from IA, requires an account to view) -->
 		<dc:source>https://www.gutenberg.org/ebooks/31008</dc:source>
+		<dc:source>https://archive.org/details/sim_analog-science-fiction-fact_1963-03_71_7</dc:source>
 		<!-- Spaceman on a Spree -->
 		<dc:source>https://www.gutenberg.org/ebooks/52995</dc:source>
 		<dc:source>https://archive.org/details/Worlds_of_Tomorrow_v01n02_1963-06_LennyS-Exciter</dc:source>
-		<meta property="se:production-notes">All stories by Mack Reynolds except Happy Ending which was written by Mack Reynolds and Frederic Brown.</meta>
+		<meta property="se:production-notes">All stories by Mack Reynolds except Happy Ending which was written by Mack Reynolds and Frederic Brown. Scans for "I'm a Stranger Here Myself" (from the December 1960 issue of Amazing Stories) have not yet been located.</meta>
 		<meta property="se:word-count">295372</meta>
 		<meta property="se:reading-ease.flesch">76.22</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mack-reynolds_short-fiction</meta>
