@@ -7,9 +7,9 @@
 
 #combat [epub|type~="z3998:letter"] p{
 	font-variant: small-caps;
+	margin-bottom: 1em;
 	text-align: initial;
 	text-indent: 0;
-	margin-bottom: 1em;
 }
 
 [epub|type~="z3998:letter"] header{
@@ -17,9 +17,9 @@
 }
 
 footer{
+	font-variant: normal;
 	margin-top: 1em;
 	text-align: right;
-	font-variant: normal;
 }
 
 [epub|type~="z3998:salutation"] + p,
