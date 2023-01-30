@@ -223,6 +223,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Fredric_Brown</meta>
 		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n79056291</meta>
 		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
+		<meta property="display-seq" refines="#contributor">0</meta>
 		<dc:contributor id="artist">Roger de la Fresnaye</dc:contributor>
 		<meta property="file-as" refines="#artist">La Fresnaye, Roger de</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Roger_de_La_Fresnaye</meta>
