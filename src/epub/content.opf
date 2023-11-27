@@ -209,7 +209,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/52995</dc:source>
 		<dc:source>https://archive.org/details/Worlds_of_Tomorrow_v01n02_1963-06_LennyS-Exciter</dc:source>
 		<meta property="se:production-notes">All stories by Mack Reynolds except Happy Ending which was written by Mack Reynolds and Frederic Brown. Scans for "I'm a Stranger Here Myself" (from the December 1960 issue of Amazing Stories) have not yet been located.</meta>
-		<meta property="se:word-count">295368</meta>
+		<meta property="se:word-count">295366</meta>
 		<meta property="se:reading-ease.flesch">76.22</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mack-reynolds_short-fiction</meta>
 		<dc:creator id="author">Mack Reynolds</dc:creator>
