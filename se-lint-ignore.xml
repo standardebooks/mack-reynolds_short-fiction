@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="frigid-fracas.xhtml">
 		<ignore code="t-017">
+			<line>319</line>
 			<reason>Match is a complete clause.</reason>
 		</ignore>
 	</file>
