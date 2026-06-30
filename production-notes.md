@@ -1,0 +1,1 @@
+All stories by Mack Reynolds except Happy Ending which was written by Mack Reynolds and Frederic Brown. Scans for "I'm a Stranger Here Myself" (from the December 1960 issue of Amazing Stories) have not yet been located.

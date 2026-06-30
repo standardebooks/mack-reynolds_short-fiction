@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mack-reynolds/short-fiction</dc:identifier>
 		<dc:date>2019-07-17T22:27:11Z</dc:date>
 		<meta property="dcterms:modified">2019-07-17T22:27:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -110,9 +111,9 @@
 		<meta property="term" refines="#subject-26">sh2008113021</meta>
 		<meta property="authority" refines="#subject-27">LCSH</meta>
 		<meta property="term" refines="#subject-27">sh2008115694</meta>
-		<meta property="se:subject">Science Fiction</meta>
-		<meta property="se:subject">Shorts</meta>
-		<meta property="se:is-a-collection">true</meta>
+		<meta property="schema:genre">Science Fiction</meta>
+		<meta property="schema:genre">Shorts</meta>
+		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<dc:description id="description">A collection of science fiction short stories by Mack Reynolds ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mack-reynolds"&gt;Dallas McCord “Mack” Reynolds&lt;/a&gt; was an American science fiction writer who authored almost two hundred short stories and novellas, was a staple in all the major science fiction and fantasy magazines and published dozens of science fiction novels. He began his writing career in the late 1940s. His fiction focused on exploring and challenging both the socioeconomic themes of the day and the implications of the Cold War that raged throughout his career. A thoughtful writer of speculative fiction, many of Mack Reynolds’ predictions have come to pass, including the credit-card economy, remote warfare and a worldwide computer network. His thoughts about the outcomes of both the Soviet and western political and economic systems are still highly relevant.&lt;/p&gt;
@@ -209,25 +210,26 @@
 		<!-- Spaceman on a Spree -->
 		<dc:source>https://www.gutenberg.org/ebooks/52995</dc:source>
 		<dc:source>https://archive.org/details/Worlds_of_Tomorrow_v01n02_1963-06_LennyS-Exciter</dc:source>
-		<meta property="se:production-notes">All stories by Mack Reynolds except Happy Ending which was written by Mack Reynolds and Frederic Brown. Scans for "I'm a Stranger Here Myself" (from the December 1960 issue of Amazing Stories) have not yet been located.</meta>
-		<meta property="se:word-count">287855</meta>
-		<meta property="se:reading-ease.flesch">76.22</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/mack-reynolds_short-fiction</meta>
+		<meta property="schema:wordCount">287855</meta>
+		<meta property="schema:educationalLevel">76.22</meta>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/mack-reynolds_short-fiction" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Mack Reynolds</dc:creator>
 		<meta property="file-as" refines="#author">Reynolds, Mack</meta>
-		<meta property="se:name.person.full-name" refines="#author">Dallas McCord Reynolds</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mack_Reynolds</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n82231916</meta>
+		<meta property="schema:alternateName" refines="#author">Dallas McCord Reynolds</meta>
+		<link href="https://en.wikipedia.org/wiki/Mack_Reynolds" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n82231916.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="contributor">Frederic Brown</dc:contributor>
 		<meta property="file-as" refines="#contributor">Brown, Frederick</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Fredric_Brown</meta>
-		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n79056291</meta>
+		<link href="https://en.wikipedia.org/wiki/Fredric_Brown" refines="#contributor" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79056291.html" refines="#contributor" rel="schema:sameAs"/>
 		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
 		<dc:contributor id="artist">Roger de la Fresnaye</dc:contributor>
 		<meta property="file-as" refines="#artist">La Fresnaye, Roger de</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Roger_de_La_Fresnaye</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85817282</meta>
+		<link href="https://en.wikipedia.org/wiki/Roger_de_La_Fresnaye" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n85817282.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Bruce Albrecht</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Albrecht, Bruce</meta>
@@ -252,10 +254,10 @@
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-8">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-8">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-8">https://www.pgdp.net/</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-8" rel="schema:url"/>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://astart.ca/</meta>
+		<link href="https://astart.ca/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -264,7 +266,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
-		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com/</meta>
+		<link href="http://www.robinwhittleton.com/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
