@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mack-reynolds/short-fiction</dc:identifier>
 		<dc:date>2019-07-17T22:27:11Z</dc:date>
@@ -114,11 +114,11 @@
 		<meta property="schema:genre">Science Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of science fiction short stories by Mack Reynolds ordered by date of publication.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of science fiction short stories by Mack Reynolds ordered by date of publication.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mack-reynolds"&gt;Dallas McCord “Mack” Reynolds&lt;/a&gt; was an American science fiction writer who authored almost two hundred short stories and novellas, was a staple in all the major science fiction and fantasy magazines and published dozens of science fiction novels. He began his writing career in the late 1940s. His fiction focused on exploring and challenging both the socioeconomic themes of the day and the implications of the Cold War that raged throughout his career. A thoughtful writer of speculative fiction, many of Mack Reynolds’ predictions have come to pass, including the credit-card economy, remote warfare and a worldwide computer network. His thoughts about the outcomes of both the Soviet and western political and economic systems are still highly relevant.&lt;/p&gt;
 			&lt;p&gt;This collection gathers stories that were published in &lt;i&gt;Analog&lt;/i&gt;, &lt;i&gt;Astounding Science Fiction&lt;/i&gt;, &lt;i&gt;Amazing Stories&lt;/i&gt; and others. Ordered by date of first publication, they range from spy adventures to the ultimate expression of corporate warfare and from a very short 1000-word story to full-blown novellas.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<!-- Tourists to Terra, p. 35 -->
 		<dc:source>https://www.gutenberg.org/ebooks/65077</dc:source>
