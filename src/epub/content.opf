@@ -32,31 +32,31 @@
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Short stories</dc:subject>
-		<dc:subject id="subject-3">Astronauts -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Astronauts--Fiction</dc:subject>
 		<dc:subject id="subject-4">Political fiction</dc:subject>
-		<dc:subject id="subject-5">Soviet Union -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Soldiers -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Balkan Peninsula -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Sahara -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Sabotage -- Fiction</dc:subject>
-		<dc:subject id="subject-10">Desert reclamation -- Mali -- Fiction</dc:subject>
-		<dc:subject id="subject-11">Time travel -- Fiction</dc:subject>
-		<dc:subject id="subject-12">Assassins -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Soviet Union--Fiction</dc:subject>
+		<dc:subject id="subject-6">Soldiers--Fiction</dc:subject>
+		<dc:subject id="subject-7">Balkan Peninsula--Fiction</dc:subject>
+		<dc:subject id="subject-8">Sahara--Fiction</dc:subject>
+		<dc:subject id="subject-9">Sabotage--Fiction</dc:subject>
+		<dc:subject id="subject-10">Desert reclamation--Mali--Fiction</dc:subject>
+		<dc:subject id="subject-11">Time travel--Fiction</dc:subject>
+		<dc:subject id="subject-12">Assassins--Fiction</dc:subject>
 		<dc:subject id="subject-13">Science fiction, American</dc:subject>
-		<dc:subject id="subject-14">Space colonies -- Fiction</dc:subject>
-		<dc:subject id="subject-15">Mercenary troops -- Fiction</dc:subject>
-		<dc:subject id="subject-16">Corporations -- Corrupt practices -- Fiction</dc:subject>
-		<dc:subject id="subject-17">Human-alien encounters -- Fiction</dc:subject>
-		<dc:subject id="subject-18">Mars (Planet) -- Fiction</dc:subject>
-		<dc:subject id="subject-19">Immortality -- Fiction</dc:subject>
-		<dc:subject id="subject-20">Orphans -- Fiction</dc:subject>
-		<dc:subject id="subject-21">Space flight -- Fiction</dc:subject>
-		<dc:subject id="subject-22">Sick children -- Fiction</dc:subject>
-		<dc:subject id="subject-23">Journalists -- Fiction</dc:subject>
-		<dc:subject id="subject-24">Space travelers -- Fiction</dc:subject>
-		<dc:subject id="subject-25">Gladiators -- Fiction</dc:subject>
-		<dc:subject id="subject-26">Trojan War -- Fiction</dc:subject>
-		<dc:subject id="subject-27">Kentucky -- Fiction</dc:subject>
+		<dc:subject id="subject-14">Space colonies--Fiction</dc:subject>
+		<dc:subject id="subject-15">Mercenary troops--Fiction</dc:subject>
+		<dc:subject id="subject-16">Corporations--Corrupt practices--Fiction</dc:subject>
+		<dc:subject id="subject-17">Human-alien encounters--Fiction</dc:subject>
+		<dc:subject id="subject-18">Mars (Planet)--Fiction</dc:subject>
+		<dc:subject id="subject-19">Immortality--Fiction</dc:subject>
+		<dc:subject id="subject-20">Orphans--Fiction</dc:subject>
+		<dc:subject id="subject-21">Space flight--Fiction</dc:subject>
+		<dc:subject id="subject-22">Sick children--Fiction</dc:subject>
+		<dc:subject id="subject-23">Journalists--Fiction</dc:subject>
+		<dc:subject id="subject-24">Space travelers--Fiction</dc:subject>
+		<dc:subject id="subject-25">Gladiators--Fiction</dc:subject>
+		<dc:subject id="subject-26">Trojan War--Fiction</dc:subject>
+		<dc:subject id="subject-27">Kentucky--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
