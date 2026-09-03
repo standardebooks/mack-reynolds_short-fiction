@@ -141,12 +141,18 @@
 		<!-- Dogfight—1973 -->
 		<dc:source>https://www.gutenberg.org/ebooks/29940</dc:source>
 		<dc:source>https://archive.org/details/Imagination_v04n06_1953-07_cape1736</dc:source>
+		<!-- D. P. from Tomorrow, p. 41 -->
+		<dc:source>https://www.gutenberg.org/ebooks/79340</dc:source>
+		<dc:source>https://archive.org/details/Orbit_Science_Fiction_v01n01_1953-09</dc:source>
 		<!-- Potential Enemy -->
 		<dc:source>https://www.gutenberg.org/ebooks/40954</dc:source>
 		<dc:source>https://archive.org/details/Orbit_Science_Fiction_v01n02_1953-12</dc:source>
 		<!-- Off Course, p. 115 -->
 		<dc:source>https://www.gutenberg.org/ebooks/30035</dc:source>
 		<dc:source>https://archive.org/details/1954-01_IF</dc:source>
+		<!-- A Zloor for Your Troubles, p. 92 -->
+		<dc:source>https://www.gutenberg.org/ebooks/66189</dc:source>
+		<dc:source>https://archive.org/details/Imagination_v05n01_1954-01_LennyS-cape1736</dc:source>
 		<!-- The Galactic Ghost, p. 59 -->
 		<dc:source>https://www.gutenberg.org/ebooks/63741</dc:source>
 		<dc:source>https://archive.org/details/Planet_Stories_v06n05_1954-03</dc:source>
@@ -252,9 +258,12 @@
 		<dc:contributor id="transcriber-7">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-7">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-8">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-8">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-8" rel="schema:url"/>
+		<dc:contributor id="transcriber-8">Tom Trussel</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Trussel, Tom</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-9">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">Distributed Proofreaders</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-9" rel="schema:url"/>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
 		<link href="https://astart.ca/" refines="#producer-1" rel="schema:url"/>
@@ -276,10 +285,12 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-zloor-for-your-troubles.xhtml" id="a-zloor-for-your-troubles.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/adaptation.xhtml" id="adaptation.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/after-some-tomorrow.xhtml" id="after-some-tomorrow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/combat.xhtml" id="combat.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/d-p-from-tomorrow.xhtml" id="d-p-from-tomorrow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dogfight-1973.xhtml" id="dogfight-1973.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/farmer.xhtml" id="farmer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/freedom.xhtml" id="freedom.xhtml" media-type="application/xhtml+xml"/>
@@ -322,8 +333,10 @@
 		<itemref idref="halftripper.xhtml"/>
 		<itemref idref="the-cosmic-bluff.xhtml"/>
 		<itemref idref="dogfight-1973.xhtml"/>
+		<itemref idref="d-p-from-tomorrow.xhtml"/>
 		<itemref idref="potential-enemy.xhtml"/>
 		<itemref idref="off-course.xhtml"/>
+		<itemref idref="a-zloor-for-your-troubles.xhtml"/>
 		<itemref idref="the-galactic-ghost.xhtml"/>
 		<itemref idref="happy-ending.xhtml"/>
 		<itemref idref="after-some-tomorrow.xhtml"/>
