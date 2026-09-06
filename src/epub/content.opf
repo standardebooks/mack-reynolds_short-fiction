@@ -216,7 +216,7 @@
 		<!-- Spaceman on a Spree -->
 		<dc:source>https://www.gutenberg.org/ebooks/52995</dc:source>
 		<dc:source>https://archive.org/details/Worlds_of_Tomorrow_v01n02_1963-06_LennyS-Exciter</dc:source>
-		<meta property="schema:wordCount">287855</meta>
+		<meta property="schema:wordCount">296432</meta>
 		<meta property="schema:educationalLevel">76.22</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
