@@ -264,6 +264,7 @@
 		<dc:contributor id="transcriber-9">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-9">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-9" rel="schema:url"/>
+		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
 		<link href="https://astart.ca/" refines="#producer-1" rel="schema:url"/>
